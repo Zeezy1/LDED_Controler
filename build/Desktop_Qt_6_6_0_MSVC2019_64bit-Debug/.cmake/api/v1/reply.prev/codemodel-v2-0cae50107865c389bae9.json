@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2ee8b71c2bb166f36bf1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DED_Controller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DED_Controller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DED_Controller-Debug-d2d1223e10379d91521d.json",
+					"name" : "DED_Controller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DED_Controller_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DED_Controller_autogen-Debug-2f549942ece45d2c2097.json",
+					"name" : "DED_Controller_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DED_Controller_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DED_Controller_autogen_timestamp_deps-Debug-fa4985a963668e24fae3.json",
+					"name" : "DED_Controller_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Software/QtProjects/DED_Controller/build/Desktop_Qt_6_6_0_MSVC2019_64bit-Debug",
+		"source" : "D:/Software/QtProjects/DED_Controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

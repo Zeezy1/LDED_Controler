@@ -1,0 +1,20 @@
+# ninja log v5
+7	1124	7549158529883111	DED_Controller_autogen/timestamp	b9db7df0f621dfe1
+7	1124	7549158529883111	DED_Controller_autogen/mocs_compilation.cpp	b9db7df0f621dfe1
+7	1124	7549158529883111	D:/Software/QtProjects/DED_Controller/build/Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/DED_Controller_autogen/timestamp	b9db7df0f621dfe1
+1285	4245	7549143002904599	CMakeFiles/DED_Controller.dir/main.cpp.obj	63c0809fd96cec32
+7	1124	7549158529883111	D:/Software/QtProjects/DED_Controller/build/Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/DED_Controller_autogen/mocs_compilation.cpp	b9db7df0f621dfe1
+4327	5552	7549158575275192	DED_Controller.exe	b5448ed50eac958d
+1124	4314	7549158564323136	CMakeFiles/DED_Controller.dir/DED_Controller_autogen/mocs_compilation.cpp.obj	7fcada2d2eff941b
+1260	4326	7549158564435286	CMakeFiles/DED_Controller.dir/mainwindow.cpp.obj	9e8f708386d32bcc
+4	165	0	CMakeFiles/clean.additional	bbfe1e5834f19d74
+6	1986	7545553689362799	build.ninja	dde27db2b7fee9b4
+165	469	0	clean	7a71c43b0fee3dcc
+1404	4291	7549158564070466	CMakeFiles/DED_Controller.dir/myfunction.cpp.obj	11b41b777fd06d11
+1537	4313	7549158564312976	CMakeFiles/DED_Controller.dir/axismovethread.cpp.obj	433778b76be67b49
+7	832	7549161693202793	DED_Controller_autogen/timestamp	b9db7df0f621dfe1
+7	832	7549161693202793	DED_Controller_autogen/mocs_compilation.cpp	b9db7df0f621dfe1
+7	832	7549161693202793	D:/Software/QtProjects/DED_Controller/build/Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/DED_Controller_autogen/timestamp	b9db7df0f621dfe1
+7	832	7549161693202793	D:/Software/QtProjects/DED_Controller/build/Desktop_Qt_6_6_0_MSVC2019_64bit-Debug/DED_Controller_autogen/mocs_compilation.cpp	b9db7df0f621dfe1
+838	3609	7549161720932910	CMakeFiles/DED_Controller.dir/mainwindow.cpp.obj	9e8f708386d32bcc
+3609	4477	7549161728373987	DED_Controller.exe	b5448ed50eac958d
